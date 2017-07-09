@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: arial;
+  text-decoration: none;
+  color: black;
+}
+
+.topnav {
+  text-decoration: none;
+  text-align: right;
+  padding-top: 20px;
+  padding-right: 20px;
+  font-family: sans-serif;
+  word-spacing: 0.5em;
+}
+
+#signin {
+  border-radius: 2px;
+  background-color: #4285f4;
+  color: #fff;
+  font-weight: bold;
+  border: 1px solid #4285f4;
+}
+
+.gimage{
+width: 50%;
+display: block;
+margin: auto;
+padding: 60px 30px 30px 30px;
+}
+
+.search-box {
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: 2%;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e8/Google_mic.svg);
+  margin: auto;
+width: 500px;
+height: 30px;
+box-shadow: 3px 4px #e6e0e0;
+}
+
+.searchbuttons {
+  padding-top: 30px;
+
+}
+
+#btn1 {
+  width: 125px;
+  height: 30px;
+}
+
+#btn2 {
+  width: 125px;
+  height: 30px;
+}
+
+.foot{
+  position: absolute;
+  width: 100%;
+  bottom: 0px;
+  height: 45px;
+  clear: both;
+}
+
+.footl{
+float: left;
+margin: 10px 0px;
+}
+
+.footr{
+  float: right;
+  margin: 10px 0px;
+}
